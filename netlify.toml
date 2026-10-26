@@ -1,0 +1,9 @@
+[build]
+  publish = "."
+  command = ""
+
+[[redirects]]
+  from = "https://www.nabondance-chiro.fr/*"
+  to = "https://nabondance-chiro.fr/:splat"
+  status = 301
+  force = true
