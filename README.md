@@ -8,3 +8,5 @@ Site statique (HTML/CSS), publié par Netlify depuis la branche `main`, sans ét
 - `style.css`, `images/`, `logo/`, `sitemap.xml`
 
 Ne jamais publier l'adresse exacte du cabinet (domicile) : afficher « Paris 8e, Triangle d'Or ».
+
+Publication : le dépôt doit rester public. L’offre gratuite de Netlify refuse de publier un dépôt privé quand les modifications ne viennent pas du compte du propriétaire (« unrecognized Git contributor »).
