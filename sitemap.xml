@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url><loc>https://nabondance-chiro.fr/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nabondance-chiro.fr/en.html"/><xhtml:link rel="alternate" hreflang="fr" href="https://nabondance-chiro.fr/"/></url>
+  <url><loc>https://nabondance-chiro.fr/</loc><xhtml:link rel="alternate" hreflang="fr" href="https://nabondance-chiro.fr/"/><xhtml:link rel="alternate" hreflang="en" href="https://nabondance-chiro.fr/en.html"/></url>
   <url><loc>https://nabondance-chiro.fr/en.html</loc><xhtml:link rel="alternate" hreflang="fr" href="https://nabondance-chiro.fr/"/><xhtml:link rel="alternate" hreflang="en" href="https://nabondance-chiro.fr/en.html"/></url>
+  <url><loc>https://nabondance-chiro.fr/chiropraxie.html</loc></url>
+  <url><loc>https://nabondance-chiro.fr/pour-qui.html</loc></url>
+  <url><loc>https://nabondance-chiro.fr/mal-de-dos.html</loc></url>
+  <url><loc>https://nabondance-chiro.fr/nuque-maux-de-tete.html</loc></url>
+  <url><loc>https://nabondance-chiro.fr/grossesse.html</loc></url>
+  <url><loc>https://nabondance-chiro.fr/bebes-enfants.html</loc></url>
+  <url><loc>https://nabondance-chiro.fr/sportifs.html</loc></url>
+  <url><loc>https://nabondance-chiro.fr/stress-fatigue.html</loc></url>
+  <url><loc>https://nabondance-chiro.fr/parcours.html</loc></url>
+  <url><loc>https://nabondance-chiro.fr/consultation.html</loc></url>
+  <url><loc>https://nabondance-chiro.fr/questions.html</loc></url>
+  <url><loc>https://nabondance-chiro.fr/contact.html</loc></url>
 </urlset>
